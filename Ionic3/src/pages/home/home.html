@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Home</ion-title>
+    <ion-buttons style="background: transparent;" *ngIf="startedMolpay" end> <button style="background: transparent;" (click)="closeMolpay()"> Close </button> </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <div style="height: 80%" id="molpay" class="molpay"></div>
+  <ion-list *ngIf="!startedMolpay">
+    <button style="width: 100%" ion-button icon-start (click)="pay()">
+      Pay
+    </button>
+  </ion-list>
+</ion-content>
