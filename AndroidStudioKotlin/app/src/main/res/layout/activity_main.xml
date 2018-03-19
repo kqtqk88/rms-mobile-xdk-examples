@@ -16,7 +16,7 @@
             android:id="@+id/btn_click_me"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Pay"/>
+            android:text="Start MOLPay"/>
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
