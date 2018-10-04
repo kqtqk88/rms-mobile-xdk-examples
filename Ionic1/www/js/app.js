@@ -55,7 +55,7 @@ angular.module('starter', ['ionic', 'ui.router'])
             'mp_order_ID': 'M0001',
             'mp_currency': 'MYR',
             'mp_country': 'MY',
-	    'mp_verification_key': '',
+            'mp_verification_key': '',
             'mp_channel': '',
             'mp_bill_description': 'Test MOLPay',
             'mp_bill_name': 'molpay',
