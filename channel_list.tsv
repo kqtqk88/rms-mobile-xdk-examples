@@ -2,6 +2,7 @@ Channel Name	mp_channel
 Visa/Mastercard	credit
 Alipay	alipay
 7-Eleven	cash
+99Speedmart  	cash99
 FPX	fpx
 Maybank2u	maybank2u
 CIMB Clicks	cimb
@@ -22,7 +23,6 @@ Standard Chartered Online	scb
 KFH Online	kuwait-finance
 Petronas	epay
 Point BCard	pointbcard
-Senheng Cash Retail	senheng
 Esapay Cash Retail	esapay
 Webcash	webcash
 Union Pay	paymentasia
@@ -70,3 +70,9 @@ FPX_EMANDATE	FPX_EMANDATE
 FPX_DIRECTDEBIT	FPX_DIRECTDEBIT
 VCASH-EWALLET	VCASH_EW
 Visa / Mastercard / Amex	credit
+WeChatPay	WeChatPay
+AmBank Payment Gateway Visa / Master   	credit8
+WeChatPayMY    	WeChatPayMY
+Maybank QRPay   	MB2U_QRPay-Push
+GrabPay   	GrabPay
+RazerPay    	RazerPay
