@@ -1,4 +1,4 @@
-# Credit/Debit Card (8)
+# Credit/Debit Card (4)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
 | Visa / Mastercard	| credit |  ALB-Paymex |
@@ -7,12 +7,12 @@
 | AMBANK eBPG | AMBANK-eBPG | | Obsolete
 | AmBank Payment Gateway Visa / Master | credit8 | | Obsolete
 
-# Direct (10)
+# Direct (1)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
 | Affin Online | affin-epg | Affin-EPG |
 
-# FPX (10)
+# FPX (21)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
 | FPX | fpx | | Obsolete
@@ -90,7 +90,7 @@
 | Cash-Deposit | Cash-Deposit | Cash-Deposit |
 | CIMB Virtual Account | CIMB-VA | CIMB-VA |
 
-# Other (8)
+# Other (6)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
 | Point BCard | pointbcard | | Obsolete
