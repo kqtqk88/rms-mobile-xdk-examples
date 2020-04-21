@@ -12,7 +12,7 @@
 | --- | --- |--- |---
 | Affin Online | affin-epg | Affin-EPG |
 
-# FPX (21)
+# FPX (20)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
 | FPX | fpx | | Obsolete
@@ -24,7 +24,6 @@
 | HSBC Online | FPX_HSBC | FPX_HSBC |
 | Standard Chartered Online | scb | FPX_SCB |
 | KFH Online | kuwait-finance | FPX_KFH |
-| FPX Maybank2e | FPX_M2E | FPX_M2E |
 | CIMB Clicks | cimb | FPX_CIMBCLICKS |
 | RHB Now | rhb | FPX_RHB |
 | PBe | publicbank | FPX_PBB |
@@ -37,7 +36,7 @@
 | FPX_EMANDATE | FPX_EMANDATE | FPX_EMANDATE |
 | FPX_DIRECTDEBIT | FPX_DIRECTDEBIT | | Obsolete
 
-# FPX B2B (16)
+# FPX B2B (17)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
 | FPX B2B Model | FPX_B2B |  |
@@ -56,6 +55,7 @@
 | FPX_B2B_SCB | FPX_B2B_SCB |  |
 | FPX_B2B_OCBC | FPX_B2B_OCBC |  |
 | FPX_B2B_BMMB | FPX_B2B_BMMB |  |
+| FPX Maybank2e | FPX_M2E | FPX_M2E |
 
 # e-Wallet (16)
 | Channel name | mp_channel | Endpoint Label | Remarks
